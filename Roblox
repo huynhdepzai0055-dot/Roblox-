@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Web Game - Roblox Clone</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">MyBlox</div>
+    <input type="text" placeholder="Tìm kiếm trò chơi...">
+    <button>Đăng nhập</button>
+  </header>
+
+  <main>
+    <h2>Trò chơi phổ biến</h2>
+    <div class="game-grid">
+      <div class="game-card">
+        <img src="https://via.placeholder.com/300x180" alt="Game 1">
+        <h3>Obby Fun</h3>
+        <p>1.2M người chơi</p>
+      </div>
+      <div class="game-card">
+        <img src="https://via.placeholder.com/300x180" alt="Game 2">
+        <h3>Tycoon Builder</h3>
+        <p>980K người chơi</p>
+      </div>
+      <div class="game-card">
+        <img src="https://via.placeholder.com/300x180" alt="Game 3">
+        <h3>Adopt Me Clone</h3>
+        <p>2.5M người chơi</p>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>© 2025 MyBlox - Trang web giả lập Roblox. Chỉ để học tập.</p>
+  </footer>
+</body>
+</html>
